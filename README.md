@@ -1,27 +1,14 @@
 # ricecakes
-//
-//  ViewController.swift
-//  ricecakes
-//
-//  Created by Hamza  Huq on 11/14/17.
-//  Copyright © 2017 Hot Potato. All rights reserved.
-//
+This is a test. 
 
-import UIKit
+No one panic 
 
-class ViewController: UIViewController {
+We are all fine.
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        print("Hello World!")
-        print("I love rice cakes.")
-        // Do any additional setup after loading the view, typically from a nib.
-    }
+*Cracking sound*
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
-    }
+What was that?
 
+...
 
-}
+ALERT ALERT 
